@@ -5,7 +5,17 @@ Ano: 2022
 # IFSUL-Prova-CSharp
 Prova da disciplina de Linguagem de Programação III.
 
-## 1) Escreva  um  programa  que  leia  três  valores  para os  lados  de  um  triângulo  (variáveis  A,  B  e  C).  Verificar  se  cada lado é menor que a soma dos outros dois lados. Se sim, saber de A==B e se B==C, sendo verdade o triângulo é equilátero;  Se  não,  verificar  de  A==B  ou  se  A==C  ou  se  B==C,  sendo  verdade  o  triângulo  é  isósceles;  e caso contrário,  o  triângulo  será  escaleno.  Caso  os  lados  fornecidos  não  caracterizarem  um  triângulo,  avisar  a ocorrência.
+## 1) Escreva  um  programa  que  leia  três  valores  para os  lados  de  um  triângulo  (variáveis  A,  B  e  C). 
+
+Verificar  se  cada lado é menor que a soma dos outros dois lados. 
+
+Se sim, saber de A==B e se B==C, sendo verdade o triângulo é equilátero;  
+
+Se  não,  verificar  de  A==B  ou  se  A==C  ou  se  B==C,  sendo  verdade  o  triângulo  é  isósceles;
+
+e caso contrário,  o  triângulo  será  escaleno.  
+
+Caso  os  lados  fornecidos  não  caracterizarem  um  triângulo,  avisar  a ocorrência.
 
 ```C#
 using System;
@@ -195,7 +205,19 @@ namespace HigherLowerAndAverageNumber{
 }
 ```
 
-## 4) Faça um programa de conversão de base numérica. O programa deverá apresentar uma tela de entrada com as seguintes opções: 1 – Adição 2 – Subtração 3 – Multiplicação 4 – Divisão Informe a opção: A  partir  da  opção  escolhida,  o  programa  deverá  solicitar  para  que  o  usuário  digite  dois  números.  Em  seguida,  o programa  deve  exibir  o  resultado  da  opção  indicada pelo  usuário  e  perguntar  ao  usuário  se  ele  deseja  voltar  ao menu  principal.  Caso  a  resposta  seja   ́S ́  ou   ́s ́,  deverá  voltar  ao  menu,  caso  contrário  deverá  encerrar  o programa.
+## 4) Faça um programa de conversão de base numérica. O programa deverá apresentar uma tela de entrada com as seguintes opções:
+
+1 – Adição 
+
+2 – Subtração 
+
+3 – Multiplicação 
+
+4 – Divisão 
+
+Informe a opção: 
+
+A  partir  da  opção  escolhida,  o  programa  deverá  solicitar  para  que  o  usuário  digite  dois  números.  Em  seguida,  o programa  deve  exibir  o  resultado  da  opção  indicada pelo  usuário  e  perguntar  ao  usuário  se  ele  deseja  voltar  ao menu  principal.  Caso  a  resposta  seja   ́S ́  ou   ́s ́,  deverá  voltar  ao  menu,  caso  contrário  deverá  encerrar  o programa.
 
 
 ```C#
